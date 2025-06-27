@@ -13,7 +13,9 @@ Responsive design with intuitive UI for basic arithmetic operations.
 
 ## 📸 Screenshot
 
-[Calculator Screenshot](C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (491).png)
+![Calculator Screenshot](Screenshot(491).png)
+
+
 
 ---
 
@@ -35,6 +37,7 @@ Responsive design with intuitive UI for basic arithmetic operations.
 ---
 
 ## 📁 Folder Structure
+```
 calculator/
 │
 ├── index.html

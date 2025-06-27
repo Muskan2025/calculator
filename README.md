@@ -11,14 +11,6 @@ Responsive design with intuitive UI for basic arithmetic operations.
 
 ---
 
-## 📸 Screenshot
-
-![Calculator Screenshot](Screenshot(491).png)
-
-
-
----
-
 ## 🚀 Features
 
 - Basic operations: `+`, `−`, `×`, `÷`, `%`

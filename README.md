@@ -13,9 +13,7 @@ Responsive design with intuitive UI for basic arithmetic operations.
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (491).png)
-
-> *(To display the screenshot, save your calculator image as `screenshot.png` in the repo root.)*
+[Calculator Screenshot](C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot (491).png)
 
 ---
 
@@ -61,8 +59,6 @@ To run this project on your local machine:
 
 ```bash
 git clone https://github.com/muskan2025/calculator.git
-cd calculator
-# Open index.html in your browser
 
 🙌 Acknowledgements
 Inspired by basic calculator UI designs.
